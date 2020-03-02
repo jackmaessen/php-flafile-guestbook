@@ -8,3 +8,4 @@ Flat-file guestbook written in php
 * max characters options 
 * email option
 * TinyMCE texteditor
+* Bootstrap 4 grid
