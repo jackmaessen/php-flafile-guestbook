@@ -1,4 +1,4 @@
-# php-flat-file-guestbook
+# php flat-file guestbook
 Flat-file guestbook written in php
 # Features
 * no database rquired
