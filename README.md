@@ -1,3 +1,9 @@
 # php-flat-file-guestbook
 Flat-file guestbook written in php
-## no database required
+# Features
+* no database rquired
+* block IP adressess
+* possibility to approve messages before posting
+* bad words filter
+* max characters options 
+* email option
