@@ -10,6 +10,8 @@ Flat-file guestbook written in php
 * TinyMCE texteditor
 * Bootstrap 4 grid
 
+# How to use:
+Open **settings.php** and set variables to your own needs
 ## DEMO
 users: http://guestbook.webprofis.nl/index.php
 
