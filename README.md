@@ -16,3 +16,9 @@ Open **settings.php** and set variables to your own needs
 users: http://guestbook.webprofis.nl/index.php
 
 admin: http://guestbook.webprofis.nl/admin.php
+# Snapshots 
+users:
+![alt text](http://guestbook.webprofis.nl/snap1.png)
+admin:
+![alt text](http://guestbook.webprofis.nl/snap2.png)
+
