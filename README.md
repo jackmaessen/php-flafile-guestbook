@@ -7,3 +7,4 @@ Flat-file guestbook written in php
 * bad words filter
 * max characters options 
 * email option
+* TinyMCE texteditor
