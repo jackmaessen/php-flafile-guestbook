@@ -1,2 +1,2 @@
-# php-flaf-ile-guestbook
+# php-flat-file-guestbook
 Flat-file guestbook written in php
