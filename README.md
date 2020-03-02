@@ -9,3 +9,7 @@ Flat-file guestbook written in php
 * email option
 * TinyMCE texteditor
 * Bootstrap 4 grid
+
+##DEMO
+users: http://guestbook.webprofis.nl/index.php
+admin: http://guestbook.webprofis.nl/admin.php
