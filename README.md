@@ -5,7 +5,7 @@ Flat-file guestbook written in php
 * block IP adressess
 * possibility to approve messages before posting
 * bad words filter
-* max characters options 
+* max characters option 
 * email option
 * TinyMCE texteditor
 * Bootstrap 4 grid
