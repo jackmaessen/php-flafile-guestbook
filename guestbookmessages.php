@@ -258,8 +258,7 @@ if( !empty($messagelist) ) {
 		$gb_gender = $lines[5]; //  gender
 		$gb_email = $lines[6]; //  email
 		$gb_message = $lines[7]; // message
-
-		fclose($fh);
+		
 		
 		/* OUTPUT CARD */
 		include 'includes/output.php'; 
